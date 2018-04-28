@@ -1,4 +1,6 @@
 # MySQL Queries 
+## MySql script 
+
     echo "use sakila; select first_name, last_name from actor" | mysql -u root -p  > hw10.txt
     use sakila;
     DESCRIBE actor;
